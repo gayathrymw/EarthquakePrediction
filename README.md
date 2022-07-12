@@ -1,12 +1,12 @@
-## MathematicsProject-2<br />
-## Earthquake Prediction using Linear Regression<br />
+# MathematicsProject-2<br />
+# Earthquake Prediction using Linear Regression<br />
 Earthquake Prediction is a way of predicting magnitude of earthquake based on parameters such as longitude, latitude, depth, and duration magnitude, country, depth using machine learning to give warning of potentially damaging earthquakes early enough to allow appropriate response to the disaster, enabling people to minimize loss of life and property.<br />
 The steps we have taken here are:<br />
      Preparing the dataset<br />
      Building a model with Linear Regression<br />
      Visualization with Matplotlib and Seaborn<br />
 With the help of Python and suitable machine learning algorithms, we can create prediction models and graph the data as we want. In this project, one of the parameters of the earthquake data as a csv file is predicted with the help of Linear Regression, an algorithm of Machine Learning.<br />
-# Dataset Information<br />
+## Dataset Information<br />
 Earthquake data can be taken from :<br />
 https://www.kaggle.com/datasets/caganseval/earthquake <br />
 
